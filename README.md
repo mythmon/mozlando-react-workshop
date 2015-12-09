@@ -10,6 +10,9 @@ $ npm install webpack-dev-server
 $ node run.js
 ```
 
+Every lesson (below) is on a branch. Lesson 1 is on the branch
+`lesson`, Lesson 2 is on the branch `lesson2`, etc.
+
 ## 1. Render a list of sources
 
 Render out the sources with `ul` and `li` tags. Change the `App`
